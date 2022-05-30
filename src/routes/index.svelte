@@ -1,8 +1,19 @@
 <div class="mb-20 flex">
 	<img src="/vp.JPG" alt="vp" class="rounded-full w-40 h-40 mr-10" />
-	<p class="justify-end font-bold text-3xl mt-10">Hello I'm Varun Pereira, Software Engineer!</p>
+	<p
+		class="justify-end font-bold text-2xl rounded-r-xl rounded-tl-xl h-[38px] px-1 mt-14 bg-white text-black"
+	>
+		Hello I'm Varun Pereira, Software Engineer!
+	</p>
 </div>
-<p id="skills" class="text-center font-bold text-2xl">Skills</p>
+<div>
+	<p id="skills" class="text-center font-bold text-2xl">Skills</p>
+	<p
+		class="justify-end font-bold text-sm rounded-xl h-[22px] w-[150px] px-1 bg-white text-black"
+	>
+		HTML, CSS, JS, React
+	</p>
+</div>
 <p id="projects" class="text-center font-bold text-2xl">Projects</p>
 <div class="flex flex-wrap text-white">
 	<!-- 1 -->
