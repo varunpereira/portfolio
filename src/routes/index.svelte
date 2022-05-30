@@ -1,6 +1,5 @@
 <div class="mb-20 flex">
-	<img src="/vp.jpg" alt="vp" class="rounded-full w-40 h-40 mr-10" />
-	<img class="h-44 w-96 rounded-t-lg object-cover" src="/vp.jpg" alt="profile2" />
+	<img src="/vp.JPG" alt="vp" class="rounded-full w-40 h-40 mr-10" />
 	<p class="justify-end font-bold text-3xl mt-10">Hello I'm Varun Pereira, Software Engineer!</p>
 </div>
 <p id="skills" class="text-center font-bold text-2xl">Skills</p>
