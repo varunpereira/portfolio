@@ -1,6 +1,7 @@
 <div class="mb-20 flex">
-	<img src="/vp.jpg" alt="vp" class="rounded-full w-40 mr-10" />
-	<p class="justify-end font-bold text-3xl mt-10">Hello I'm Varun Pereira, Software Engineer! </p>
+	<img src="/vp.jpg" alt="vp" class="rounded-full w-40 h-40 mr-10" />
+	<img class="h-44 w-96 rounded-t-lg object-cover" src="/vp.jpg" alt="profile2" />
+	<p class="justify-end font-bold text-3xl mt-10">Hello I'm Varun Pereira, Software Engineer!</p>
 </div>
 <p id="skills" class="text-center font-bold text-2xl">Skills</p>
 <p id="projects" class="text-center font-bold text-2xl">Projects</p>
@@ -8,7 +9,7 @@
 	<!-- 1 -->
 	<a
 		href="https://denify.vercel.app/"
-        target="_blank"
+		target="_blank"
 		class="mr-4 max-w-[16rem] max-h-[32rem] text-sm rounded-lg bg-white hover:bg-gray-300 "
 	>
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/denify.jpg" alt="profile" />
