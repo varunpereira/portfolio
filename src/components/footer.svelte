@@ -7,7 +7,7 @@
 		<a href="https://github.com/varunpereira/public" target="_blank" class="mr-2"
 			><GithubIcon class="w-6 h-6 hover:text-gray-400" /></a
 		>
-		<a href="https://linkedin.com/in/varun-pereira/" target="_blank" class="mr-2"
+		<a href="https://linkedin.com/in/varunpereira/" target="_blank" class="mr-2"
 			><LinkedinIcon class="w-6 h-6 hover:text-gray-400" /></a
 		>
 	</div>
