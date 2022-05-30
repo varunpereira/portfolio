@@ -1,4 +1,4 @@
-<div class="mb-20 flex">
+<div class="mb-10 flex">
 	<img src="/vp.JPG" alt="vp" class="rounded-full w-40 h-40 mr-10" />
 	<p
 		class="justify-end font-bold text-2xl rounded-r-xl rounded-tl-xl h-[38px] px-1 mt-14 bg-white text-black"
