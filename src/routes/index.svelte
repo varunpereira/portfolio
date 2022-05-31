@@ -2,10 +2,10 @@
 	import { GithubIcon } from 'svelte-feather-icons';
 </script>
 
-<div class="mb-10 flex">
-	<img src="/vp.JPG" alt="vp" class="rounded-full w-40 h-40 mr-10" />
+<div class="mb-10 flex flex-wrap">
+	<img src="/vp.JPG" alt="vp" class="rounded-full w-40 h-40 mr-5" />
 	<p
-		class="justify-end font-bold text-2xl rounded-r-xl rounded-tl-xl h-[38px] px-1 mt-14 bg-white text-black"
+		class="justify-end  text-xl rounded-r-xl rounded-tl-xl h-[38px] px-1 mt-12 bg-white bg-blue-600 flex items-center "
 	>
 		Hello I'm Varun Pereira, Software Engineer!
 	</p>
@@ -15,9 +15,56 @@
 	<a
 		href="https://denify.vercel.app/"
 		target="_blank"
-		class="mb-4 mr-4 max-w-[16rem] max-h-[32rem] text-sm rounded-lg bg-white hover:bg-gray-300 "
+		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
 	>
+		HTML, CSS, JS, React
 	</a>
+	<a
+		href="https://denify.vercel.app/"
+		target="_blank"
+		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
+	>
+		Next, SvelteKit
+	</a>
+	<a
+		href="https://denify.vercel.app/"
+		target="_blank"
+		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
+	>
+		HTTP, REST, Node, Express
+	</a>
+	<a
+		href="https://denify.vercel.app/"
+		target="_blank"
+		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
+	>
+		MongoDB, SQL, MySQL
+	</a><a
+		href="https://denify.vercel.app/"
+		target="_blank"
+		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
+	>
+		Git, GitHub
+	</a><a
+		href="https://denify.vercel.app/"
+		target="_blank"
+		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
+	>
+		Docker, Testing, Cypress
+	</a><a
+		href="https://denify.vercel.app/"
+		target="_blank"
+		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
+	>
+		Agile, Scrum
+	</a><a
+		href="https://denify.vercel.app/"
+		target="_blank"
+		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
+	>
+		Java, Spring
+	</a>
+
 	<!-- <p class="w-[154px] font-bold text-sm rounded-xl h-[22px]  px-2 bg-white text-black">
 		HTML, CSS, JS, React
 	</p>
@@ -55,7 +102,7 @@
 	<a
 		href="https://denify.vercel.app/"
 		target="_blank"
-		class="mb-4 mr-4 max-w-[16rem] max-h-[32rem] text-sm rounded-lg bg-white hover:bg-gray-300 "
+		class="mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
 	>
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/denify.jpg" alt="profile" />
 		<div class="px-5 pt-5">
@@ -74,7 +121,7 @@
 	<a
 		href="https://zenify.vercel.app/"
 		target="_blank"
-		class="mb-4 mr-4 max-w-[16rem] max-h-[32rem] text-sm rounded-lg bg-white hover:bg-gray-300 "
+		class="mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
 	>
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/zenify.jpg" alt="profile" />
 		<div class="px-5 pt-5">
