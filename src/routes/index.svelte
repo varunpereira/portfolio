@@ -64,31 +64,6 @@
 	>
 		Java, Spring
 	</a>
-
-	<!-- <p class="w-[154px] font-bold text-sm rounded-xl h-[22px]  px-2 bg-white text-black">
-		HTML, CSS, JS, React
-	</p>
-	<p class="w-[115px] ml-5 font-bold text-sm rounded-xl h-[22px]  px-2 bg-white text-black">
-		Next, SvelteKit
-	</p>
-	<p class="w-[150px] ml-5 font-bold text-sm rounded-xl h-[22px]  px-2 bg-white text-black">
-		HTTP, REST, Node, Express
-	</p>
-	<p class="w-[150px] ml-5 font-bold text-sm rounded-xl h-[22px]  px-2 bg-white text-black">
-		MongoDB, SQL, MySQL
-	</p>
-	<p class="w-[150px] ml-5 font-bold text-sm rounded-xl h-[22px]  px-2 bg-white text-black">
-		Git, GitHub
-	</p>
-	<p class="w-[150px] ml-5 font-bold text-sm rounded-xl h-[22px]  px-2 bg-white text-black">
-		Docker, Testing, Cypress
-	</p>
-	<p class="w-[150px] ml-5 font-bold text-sm rounded-xl h-[22px]  px-2 bg-white text-black">
-		Agile, Scrum
-	</p>
-	<p class="w-[150px] mt-5 font-bold text-sm rounded-xl h-[22px]  px-2 bg-white text-black">
-		Java, Spring
-	</p> -->
 </div>
 
 <div class="flex justify-center my-5">
@@ -102,7 +77,7 @@
 	<a
 		href="https://denify.vercel.app/"
 		target="_blank"
-		class="mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
+		class="max-w-[16rem] max-h-[32rem] mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
 	>
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/denify.jpg" alt="profile" />
 		<div class="px-5 pt-5">
@@ -121,7 +96,7 @@
 	<a
 		href="https://zenify.vercel.app/"
 		target="_blank"
-		class="mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
+		class="max-w-[16rem] max-h-[32rem] mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
 	>
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/zenify.jpg" alt="profile" />
 		<div class="px-5 pt-5">
