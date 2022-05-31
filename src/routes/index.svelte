@@ -68,7 +68,7 @@
 
 <div class="flex justify-center my-5">
 	<p id="projects" class="text-center font-bold text-2xl mr-3">Projects</p>
-	<a href="https://github.com/varunpereira/public" target="_blank" class="mr-2"
+	<a href="https://github.com/varunpereira" target="_blank" class="mr-2"
 		><GithubIcon class="w-6 h-6 hover:text-gray-400 mt-2" /></a
 	>
 </div>
