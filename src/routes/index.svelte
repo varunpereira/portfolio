@@ -10,6 +10,7 @@
 		Hello I'm Varun Pereira, Software Engineer!
 	</p>
 </div>
+
 <p id="skills" class="text-center font-bold text-2xl my-5">Skills</p>
 <div class="flex flex-wrap">
 	<a
@@ -104,4 +105,28 @@
 			<p class="h-16 font-normal text-gray-700">Created my own web framework and languages.</p>
 		</div>
 	</a>
+</div>
+
+<p id="experience" class="text-center font-bold text-2xl my-5">Experience</p>
+<div class="flex justify-center">
+	<div class="text-left ">
+		<p class="font-semibold">Software Engineer Apprentice, Slalom</p>
+		<p>(Jan 2022 - Dec 2022, full time 1 year)</p>
+		<p>-developed and tested web apps for clients</p>
+		<br />
+		<p class="font-semibold">Software Engineering Tutor, Code Camp</p>
+		<p>(Jan 2021 - Jan 2022, casual 1 year)</p>
+		<p>-taught basic frontend skills to children</p>
+		<br />
+		<p class="font-semibold">Web Designer, Career Success Australia</p>
+		<p>(Nov 2020, full time 1 month)</p>
+		<p>-designed a job employment website</p>
+	</div>
+</div>
+
+<p id="education" class="text-center font-bold text-2xl my-5">Education</p>
+<div class="text-center">
+	<p class="font-semibold text-center">Bachelor of Software Engineering, RMIT</p>
+	<p>(2020 - 2023, 4 years)</p>
+	<p>-volunteered in software engineering tutoring and clubs</p>
 </div>
