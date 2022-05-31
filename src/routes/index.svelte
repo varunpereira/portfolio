@@ -125,8 +125,10 @@
 </div>
 
 <p id="education" class="text-center font-bold text-2xl my-5">Education</p>
-<div class="text-center">
-	<p class="font-semibold text-center">Bachelor of Software Engineering, RMIT</p>
-	<p>(2020 - 2023, 4 years)</p>
-	<p>-volunteered in software engineering tutoring and clubs</p>
+<div class="flex justify-center">
+	<div class="text-left">
+		<p class="font-semibold">Bachelor of Software Engineering, RMIT</p>
+		<p>(2020 - 2023, 4 years)</p>
+		<p>-volunteered in software engineering tutoring and clubs</p>
+	</div>
 </div>
