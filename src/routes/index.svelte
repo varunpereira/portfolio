@@ -111,15 +111,15 @@
 <div class="flex justify-center">
 	<div class="text-left ">
 		<p class="font-semibold">Software Engineer Apprentice, Slalom</p>
-		<p>(Jan 2022 - Dec 2022, full time 1 year)</p>
+		<p>(Jan 2022 - Dec 2022, 1 year full time)</p>
 		<p>-developed and tested web apps for clients</p>
 		<br />
 		<p class="font-semibold">Software Engineering Tutor, Code Camp</p>
-		<p>(Jan 2021 - Jan 2022, casual 1 year)</p>
+		<p>(Jan 2021 - Jan 2022, 1 year casual)</p>
 		<p>-taught basic frontend skills to children</p>
 		<br />
 		<p class="font-semibold">Web Designer, Career Success Australia</p>
-		<p>(Nov 2020, full time 1 month)</p>
+		<p>(Nov 2020, 1 month full time)</p>
 		<p>-designed a job employment website</p>
 	</div>
 </div>
@@ -128,7 +128,7 @@
 <div class="flex justify-center">
 	<div class="text-left">
 		<p class="font-semibold">Bachelor of Software Engineering, RMIT</p>
-		<p>(2020 - 2023, 4 years)</p>
+		<p>(2020 - 2023, 4 years full time)</p>
 		<p>-volunteered in software engineering tutoring and clubs</p>
 	</div>
 </div>
