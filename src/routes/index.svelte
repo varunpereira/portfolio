@@ -5,7 +5,7 @@
 <div class="mb-10 flex flex-wrap">
 	<img src="/vp.JPG" alt="vp" class="rounded-full w-40 h-40 mr-5" />
 	<p
-		class="justify-end  text-xl rounded-r-xl rounded-tl-xl h-[38px] px-1 mt-12 bg-white bg-blue-600 flex items-center "
+		class="justify-end  text-xl rounded-r-xl rounded-bl-xl md:rounded-tl-xl h-[38px] px-1 mt-12 bg-white bg-blue-600 flex items-center "
 	>
 		Hello I'm Varun Pereira, Software Engineer!
 	</p>
