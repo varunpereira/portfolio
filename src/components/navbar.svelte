@@ -7,12 +7,13 @@
 
 <svelte:window bind:innerWidth={width} />
 
-<header class="relative mb-10 min-w-min bg-black py-4  md:flex md:items-center md:justify-between">
-	<div class="md:mr-5 mb-1 px-0 flex items-center justify-between ">
+<header class="relative mb-10 min-w-min bg-black py-4 md:flex md:items-center md:justify-between">
+	<div class="md:mr-5 mb-1 px-0 flex items-center justify-between">
 		<h1 class="text-xl">
 			<a href="/" class="flex font-bold no-underline hover:text-gray-400">
 				<img src="/favicon.jpg" alt="logo" class="rounded-sm w-5 h-5 mt-1 mr-2" />
-				<span class="justify-end pb-1">Varun Pereira</span>
+				<span class="pb-1">Varun</span>
+				<span class="ml-1 pb-1">Pereira</span>
 			</a>
 		</h1>
 		<button
@@ -24,7 +25,9 @@
 		</button>
 	</div>
 	{#if menuStatus === true || width >= 768}
-		<ul class="list-reset md:flex md:items-center">
+		<ul
+			class="absolute bg-black w-full md:static list-reset md:flex md:items-center md:justify-end"
+		>
 			<li class="nav-item">
 				<a href="#projects" class="hover:text-gray-400">
 					<span class="pr-1">Projects</span>
