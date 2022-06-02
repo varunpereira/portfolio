@@ -105,6 +105,18 @@
 			<p class="h-16 font-normal text-gray-700">Created my own web framework and languages.</p>
 		</div>
 	</a>
+	<!-- 3 -->
+	<a
+		href="https://ramify.vercel.app/"
+		target="_blank"
+		class="max-w-[16rem] max-h-[32rem] mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
+	>
+		<img class="h-44 w-96 rounded-t-lg object-cover" src="/favicon.jpg" alt="profile" />
+		<div class="px-5 pt-5">
+			<p class="h-16  font-bold tracking-tight text-gray-900 ">Game - Ramify</p>
+			<p class="h-16 font-normal text-gray-700">Created my own game. TBA!</p>
+		</div>
+	</a>
 </div>
 
 <p id="experience" class="text-center font-bold text-2xl my-5">Experience</p>
