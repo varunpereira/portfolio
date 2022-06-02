@@ -13,58 +13,46 @@
 
 <p id="skills" class="text-center font-bold text-2xl my-5">Skills</p>
 <div class="flex flex-wrap">
-	<a
-		href="https://denify.vercel.app/"
-		target="_blank"
+	<div
 		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
 	>
 		HTML, CSS, JS, React
-	</a>
-	<a
-		href="https://denify.vercel.app/"
-		target="_blank"
+	</div>
+	<div
 		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
 	>
 		Next, SvelteKit
-	</a>
-	<a
-		href="https://denify.vercel.app/"
-		target="_blank"
+	</div>
+	<div
 		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
 	>
 		HTTP, REST, Node, Express
-	</a>
-	<a
-		href="https://denify.vercel.app/"
-		target="_blank"
+	</div>
+	<div
 		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
 	>
 		MongoDB, SQL, MySQL
-	</a><a
-		href="https://denify.vercel.app/"
-		target="_blank"
+	</div>
+	<div
 		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
 	>
 		Git, GitHub
-	</a><a
-		href="https://denify.vercel.app/"
-		target="_blank"
+	</div>
+	<div
 		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
 	>
 		Docker, Testing, Cypress
-	</a><a
-		href="https://denify.vercel.app/"
-		target="_blank"
+	</div>
+	<div
 		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
 	>
 		Agile, Scrum
-	</a><a
-		href="https://denify.vercel.app/"
-		target="_blank"
+	</div>
+	<div
 		class="mb-4 mr-4  text-sm rounded-lg bg-white text-black font-bold text-sm  px-2 flex items-center"
 	>
 		Java, Spring
-	</a>
+	</div>
 </div>
 
 <div class="flex justify-center my-5">
