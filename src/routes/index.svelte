@@ -99,7 +99,7 @@
 		target="_blank"
 		class="max-w-[16rem] max-h-[32rem] mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
 	>
-		<img class="h-44 w-96 rounded-t-lg object-cover" src="/favicon.jpg" alt="profile" />
+		<img class="h-44 w-96 rounded-t-lg object-cover" src="/showify.jpg" alt="profile" />
 		<div class="px-5 pt-5">
 			<p class="h-16  font-bold tracking-tight text-gray-900 ">Show Web App - Showify</p>
 			<p class="h-16 font-normal text-gray-700">
