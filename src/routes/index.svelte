@@ -103,7 +103,7 @@
 		<div class="px-5 pt-5">
 			<p class="h-16  font-bold tracking-tight text-gray-900 ">Show Web App - Showify</p>
 			<p class="h-16 font-normal text-gray-700">
-				Created my own show information and discussion web app that's similar to IMDB. TBA!
+				Created my own show info web app that's similar to IMDB. TBA!
 			</p>
 		</div>
 	</a>
