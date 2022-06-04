@@ -95,6 +95,20 @@
 	</a>
 	<!-- 3 -->
 	<a
+		href="https://showify.vercel.app/"
+		target="_blank"
+		class="max-w-[16rem] max-h-[32rem] mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
+	>
+		<img class="h-44 w-96 rounded-t-lg object-cover" src="/favicon.jpg" alt="profile" />
+		<div class="px-5 pt-5">
+			<p class="h-16  font-bold tracking-tight text-gray-900 ">Show Web App - Showify</p>
+			<p class="h-16 font-normal text-gray-700">
+				Created my own show information and discussion web app that's similar to IMDB. TBA!
+			</p>
+		</div>
+	</a>
+	<!-- 4 -->
+	<a
 		href="https://ramify.vercel.app/"
 		target="_blank"
 		class="max-w-[16rem] max-h-[32rem] mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
@@ -111,15 +125,15 @@
 <div class="flex justify-center">
 	<div class="text-left ">
 		<p class="font-semibold">Software Engineer Apprentice, Slalom</p>
-		<p>(Jan 2022 - Dec 2022, 1 year full time)</p>
+		<p>(Jan 2022 - Dec 2022, 1 year)</p>
 		<p>-developed and tested web apps for clients</p>
 		<br />
 		<p class="font-semibold">Software Engineering Tutor, Code Camp</p>
-		<p>(Jan 2021 - Jan 2022, 1 year casual)</p>
+		<p>(Jan 2021 - Jan 2022, 1 year)</p>
 		<p>-taught basic frontend skills to children</p>
 		<br />
 		<p class="font-semibold">Web Designer, Career Success Australia</p>
-		<p>(Nov 2020, 1 month full time)</p>
+		<p>(Nov 2020, 1 month)</p>
 		<p>-designed a job employment website</p>
 	</div>
 </div>
