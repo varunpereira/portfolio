@@ -72,7 +72,7 @@
 		<div class="px-5 pt-5">
 			<p class="h-16  font-bold tracking-tight text-gray-900 ">Ecommerce Store - Denify</p>
 			<p class="h-16 font-normal text-gray-700">
-				Created my own ecommerce store that's similar to Amazon.
+				Created my own ecommerce web app that's similar to Amazon.
 			</p>
 			<!-- <button
 				class="cursor-pointer inline-flex w-full items-center justify-center rounded-lg bg-black py-2 m font-medium text-white "
@@ -83,6 +83,20 @@
 	</a>
 	<!-- 2 -->
 	<a
+		href="https://showify.vercel.app/"
+		target="_blank"
+		class="max-w-[16rem] max-h-[32rem] mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
+	>
+		<img class="h-44 w-96 rounded-t-lg object-cover" src="/showify.jpg" alt="profile" />
+		<div class="px-5 pt-5">
+			<p class="h-16  font-bold tracking-tight text-gray-900 ">Show Info - Showify</p>
+			<p class="h-16 font-normal text-gray-700">
+				Created my own show info web app that's similar to IMDB. 
+			</p>
+		</div>
+	</a>
+	<!-- 3 -->
+	<a
 		href="https://zenify.vercel.app/"
 		target="_blank"
 		class="max-w-[16rem] max-h-[32rem] mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
@@ -90,21 +104,7 @@
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/zenify.jpg" alt="profile" />
 		<div class="px-5 pt-5">
 			<p class="h-16  font-bold tracking-tight text-gray-900 ">Web Framework - Zenify</p>
-			<p class="h-16 font-normal text-gray-700">Created my own web framework and languages.</p>
-		</div>
-	</a>
-	<!-- 3 -->
-	<a
-		href="https://showify.vercel.app/"
-		target="_blank"
-		class="max-w-[16rem] max-h-[32rem] mb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
-	>
-		<img class="h-44 w-96 rounded-t-lg object-cover" src="/showify.jpg" alt="profile" />
-		<div class="px-5 pt-5">
-			<p class="h-16  font-bold tracking-tight text-gray-900 ">Show Web App - Showify</p>
-			<p class="h-16 font-normal text-gray-700">
-				Created my own show info web app that's similar to IMDB. TBA!
-			</p>
+			<p class="h-16 font-normal text-gray-700">Created my own web framework, languages and concepts.</p>
 		</div>
 	</a>
 	<!-- 4 -->
