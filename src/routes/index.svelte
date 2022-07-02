@@ -129,7 +129,7 @@
 		<p>-developed and tested web apps for clients</p>
 		<br />
 		<p class="font-semibold">Software Engineering Tutor, Code Camp</p>
-		<p>(Jan 2021 - Jan 2022, 1 year)</p>
+		<p>(Jan 2021 - Dec 2021, 1 year)</p>
 		<p>-taught basic frontend skills to children</p>
 		<br />
 		<p class="font-semibold">Web Designer, Career Success Australia</p>
