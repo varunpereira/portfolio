@@ -29,13 +29,13 @@
 			class="absolute bg-black w-full md:static list-reset md:flex md:items-center md:justify-end"
 		>
 			<li class="nav-item">
-				<a href="#projects" class="hover:text-gray-400">
-					<span class="pr-1">Projects</span>
+				<a href="#skills" class="hover:text-gray-400">
+					<span class="pr-1">Skills</span>
 				</a>
 			</li>
 			<li class="nav-item md:pl-5">
-				<a href="#skills" class="hover:text-gray-400">
-					<span class="pr-1">Skills</span>
+				<a href="#projects" class="hover:text-gray-400">
+					<span class="pr-1">Projects</span>
 				</a>
 			</li>
 			<li class="nav-item md:pl-5">
