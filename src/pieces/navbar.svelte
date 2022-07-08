@@ -26,7 +26,7 @@
 	</div>
 	{#if menuStatus === true || width >= 768}
 		<ul
-			class="absolute bg-black w-full md:static list-reset md:flex md:items-center md:justify-end"
+			class="absolute bg-gray-900 w-full md:static list-reset md:flex md:items-center md:justify-end"
 		>
 			<li class="nav-item">
 				<a href="#skills" class="hover:text-gray-400">
