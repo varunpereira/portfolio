@@ -70,9 +70,9 @@
 	>
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/denify.jpg" alt="profile" />
 		<div class="px-5 pt-5">
-			<p class="h-16  font-bold tracking-tight text-gray-900 ">Ecommerce Store - Denify</p>
+			<p class="h-8  font-bold tracking-tight text-gray-900 ">Denify (commerce)</p>
 			<p class="h-16 font-normal text-gray-700">
-				Created my own ecommerce web app that's similar to Amazon.
+				Like Amazon, this product based web app lets you: login, search, cart, pay, sell, review, message, account.
 			</p>
 			<!-- <button
 				class="cursor-pointer inline-flex w-full items-center justify-center rounded-lg bg-black py-2 m font-medium text-white "
@@ -89,9 +89,9 @@
 	>
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/showify.jpg" alt="profile" />
 		<div class="px-5 pt-5">
-			<p class="h-16  font-bold tracking-tight text-gray-900 ">Show Info - Showify</p>
+			<p class="h-8  font-bold tracking-tight text-gray-900 ">Showify (media)</p>
 			<p class="h-16 font-normal text-gray-700">
-				Created my own show info web app that's similar to IMDB. 
+				Like IMDb, this show based web app lets you: login, search, review, account.
 			</p>
 		</div>
 	</a>
@@ -103,8 +103,8 @@
 	>
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/zenify.jpg" alt="profile" />
 		<div class="px-5 pt-5">
-			<p class="h-16  font-bold tracking-tight text-gray-900 ">Web Framework - Zenify</p>
-			<p class="h-16 font-normal text-gray-700">Created my own web framework, languages and concepts.</p>
+			<p class="h-8  font-bold tracking-tight text-gray-900 ">Zenify (web)</p>
+			<p class="h-16 font-normal text-gray-700">Like SvelteKit, this web framework reimagines the developer experience. </p>
 		</div>
 	</a>
 	<!-- 4 -->
@@ -115,7 +115,7 @@
 	>
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/favicon.jpg" alt="profile" />
 		<div class="px-5 pt-5">
-			<p class="h-16  font-bold tracking-tight text-gray-900 ">Game - Ramify</p>
+			<p class="h-8  font-bold tracking-tight text-gray-900 ">Ramify (gaming)</p>
 			<p class="h-16 font-normal text-gray-700">Created my own game. TBA!</p>
 		</div>
 	</a>
