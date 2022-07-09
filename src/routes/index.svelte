@@ -89,7 +89,7 @@
 	>
 		<img class="h-44 w-96 rounded-t-lg object-cover" src="/showify.jpg" alt="profile" />
 		<div class="px-5 pt-5">
-			<p class="h-8  font-bold tracking-tight text-gray-900 ">Showify (media)</p>
+			<p class="h-8  font-bold tracking-tight text-gray-900 ">Showify (entertainment)</p>
 			<p class="h-16 font-normal text-gray-700">
 				Like IMDb, this show based web app lets you: login, search, review, account.
 			</p>
