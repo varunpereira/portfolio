@@ -38,7 +38,7 @@
 		<a
 			href={project.href}
 			target="_blank"
-			class="max-w-[16rem] max-h-[32rem] pb-4 mr-4  text-sm rounded-lg bg-white hover:bg-gray-300 "
+			class="max-w-[16rem] max-h-[32rem] pb-4 mr-4 mb-4 text-sm rounded-lg bg-white hover:bg-gray-300 "
 		>
 			<img class="h-44 w-96 rounded-t-lg object-cover" src={project.src} alt="img" />
 			<div class="pt-4 px-4">
